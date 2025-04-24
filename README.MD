@@ -11,10 +11,10 @@ A análise visa responder à pergunta central:
 > **"Qual das quatro lojas apresenta menor eficiência para que possa ser vendida?"**
 
 Para isso, foram considerados os seguintes critérios:
-- Faturamento total por loja.
-- Média de avaliações dos clientes.
-- Valor médio do frete.
-- Produtos mais e menos vendidos por loja.
+- Faturamento total por loja;
+- Média de avaliações dos clientes;
+- Valor médio do frete;
+- Produtos mais e menos vendidos por loja;
 - Categorias de produtos mais vendidas.
 
 ---
